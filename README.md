@@ -1,9 +1,10 @@
-# Netflix-Movie-Rating-Prediction
+# Netflix-Movie-Rating-Prediction <Change-1> <Change-2>
 Objectives:
 
-Predict the rating that a user would give to a movie that he has not yet rated.
+<Change-2> the rating that a user would give to a movie that he has not yet rated.
 Minimize the difference between predicted and actual rating (RMSE and MAPE)
 
+<Change-3>
 Approach Used:
 
 We start with doing the exploratory data analysis which helps us to know about total number of ratings given,the most frequent ratings given by most of the users,in what day of week most ratings are given etc
